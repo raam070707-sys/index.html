@@ -1,5 +1,3 @@
-# index.html
-sbp legal consultant
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -994,7 +992,7 @@ sbp legal consultant
     <div class="team-card">
       <div class="team-avatar">SB</div>
       <div class="team-name">Sweta Baisla</div>
-      <div class="team-role">Senior Advocate</div>
+      <div class="team-role">Advocate</div>
       <a href="tel:+918178838999" class="team-phone">+91 81788 38999</a>
     </div>
 
@@ -1033,7 +1031,7 @@ sbp legal consultant
     <div class="contact-info-item">
       <div class="contact-info-label">Office — New Delhi</div>
       <div class="contact-info-value">
-        A-16 Nehru Vihar,<br>New Delhi — 110054
+        B-288 Nehru Vihar,<br>New Delhi — 110054
       </div>
     </div>
 
